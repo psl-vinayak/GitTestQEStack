@@ -4,4 +4,7 @@ Hello World
 
 commiting for remote
 
-change for checking conflict with remote repo while rebase
+Change for checking conflict with remote repo while rebase
+
+Change-> to local master to check conflict while file push
+cHANGE-> line added to test push with conflict on remote repo
