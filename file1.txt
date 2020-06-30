@@ -3,3 +3,5 @@ Hello World
 1st edit
 
 commiting for remote
+
+change for checking conflict with remote repo while rebase
